@@ -1,4 +1,4 @@
 s1= "python"
 s2="programming"
-print("string 1 is", s1)
-print("string 2 is", s2
+print("string 1 is:", s1)
+print("string 2 is:", s2)
